@@ -1,0 +1,2 @@
+An interesting notes:
+https://github.com/jbmouret/matplotlib_for_papers#better-colors
